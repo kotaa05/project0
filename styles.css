@@ -1,0 +1,27 @@
+p,ul {
+  font-family: Verdana;
+}
+p {
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-top: 10px;
+}
+ul {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+a {
+ color: black;
+ text-decoration: underline;
+ line-height: 25px;
+}
+div {
+  padding: 20px;
+  background-color: lightblue;
+  border: 2px solid black;
+  width: 250px;
+  height: 300px;
+  margin: 20px;
+}
